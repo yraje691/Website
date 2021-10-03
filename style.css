@@ -1,0 +1,43 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ab{
+    width: 18%;
+    border:5px  solid white;
+    border-radius: 2%;
+    background-color: wheat;
+
+}
+
+.ab:hover{
+    background-color: mintcream;
+    opacity: 85%;
+}
+
+.gh{
+
+    width: 600px;
+    border:5px  solid white;
+    border-radius: 2%;
+    background-color: wheat;
+}
+
+.kl{
+
+    width: 600px;
+    border:5px  solid white;
+    border-radius: 2%;
+    background-color: wheat;
+}
+
+#abc{
+    width: 450px;
+    border:5px  solid white;
+    border-radius: 2%;
+    background-color: wheat;
+}
+
+body{
+    margin-left: 1%;
+}
